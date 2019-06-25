@@ -1,3 +1,7 @@
+# Experimenting with my custom jupyterlab environment on Binder
+
+This repo is a fork of the jupyterlab/jupyterlab-demo
+
 # JupyterLab Demonstration
 
 [![Build Status](https://travis-ci.org/jupyterlab/jupyterlab-demo.svg?branch=master)](https://travis-ci.org/jupyterlab/jupyterlab-demo)
